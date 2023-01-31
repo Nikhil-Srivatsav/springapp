@@ -1,4 +1,18 @@
 # springapp
 #rest api
+# Sample-Java-proj
+# Backend-Project_SpringBoot
+This is my first java spring boot backend project.
 
-Started this project to learn spring and create project using the same
+here i built complete backened architecture
+
+Controllers --> Services --> Models/views --> DB
+
+
+Lanuage-->Java
+
+Framework-->Spring boot.
+
+build tools -->Maven,Gradle
+
+Started wit spring boot
